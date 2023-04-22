@@ -1,5 +1,5 @@
 # this my personal block list - after monitoring whats tracking me...
-# Updated 01JAN23 manually
+# Updated 22APR23 manually
 
 # No List corrections can be requested
 config2.mparticle.com
@@ -19,11 +19,7 @@ analytics.localytics.com
 api.onesignal.com
 profile.localytics.com
 api.segment.io
-api.onesignal.com
-app-measurement.com
 firebase-settings.crashlytics.com
-www.google-analytics.com
-mobile-collector.newrelic.com
 googleads.g.doubleclick.net
 secure.quantserve.com
 twitter.app.link
@@ -48,18 +44,11 @@ tt.onthe.io
 cdn.onthe.io
 static.scroll.com
 s.skimresources.com
-ssl.google-analytics.com
 cdn.viglink.com
 stats.g.doubleclick.net
-app.adjust.com
 aax-us-iad.amazon.com
-aax-us-iad.amazon.com
-mobile-collector.newrelic.com
 smetrics.att.com
 profileroccivues.com
-profile.localytics.com
-pagead2.googlesyndication.com
-aax.amazon-adsystem.com
 mb.moatads.com
 fls-eu.amazon.de
 geo.query.yahoo.com
@@ -69,20 +58,16 @@ tpc.googlesyndication.com
 ghb.spotim.market
 www.googleadservices.com
 geo.yahoo.com
-adservice.google.com
 tags.crwdcntrI.net
 securemetrics.apple.com
 lightning.cnn.com
 mms.cnn.com
-ib.adnxs.com
 static.adsafeprotected.com
-c.amazon-adsystem.com
 static.chartbeat.com
 tag.bounceexchange.com
 www.dianomi.com
 bea4.v.fwmrm.net
 foxnewsplayer-a.akamaihd.net
-foxnews-d.openx.net
 amp.akamaized.net
 smetrics.foxnews.com
 bat.bing.com
@@ -110,12 +95,9 @@ analytics.getshogun.com
 monorail-edge.shopifysvc.com
 frog.wix.com
 dap.digitalgov.gov
-pagead2.googlesyndication.com
 play.google.com
-adservice.google.com
 widget.intercom.io
 snap.licdn.com
-dpm.demdex.net
 hbopenbid.pubmatic.com
 mrf.io
 measlymiddle.com
@@ -135,3 +117,16 @@ trafficmanager.net
 breitbartproduction.disqus.com
 amazon-adsystem.com
 tplinkra.com
+s.yimg.com
+widgets.outbrain.com
+static.criteo.net
+imrworldwide.com
+knotch-cdn.com
+taboola.com
+demdex.net
+opecloud.com
+fundingchoicesmessages.google.com
+pix.pub
+revcontent.com
+scribblestring.com
+googleoptimize.com
